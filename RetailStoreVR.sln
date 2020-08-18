@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F0082657-BDF6-7C76-3506-0BEEE4332139}") = "RetailStoreVR", "Assembly-CSharp.csproj", "{C44859E8-0B2F-A271-CDF9-56958BE4A8EC}"
+EndProject
+Project("{F0082657-BDF6-7C76-3506-0BEEE4332139}") = "RetailStoreVR", "Assembly-CSharp-Editor.csproj", "{1EADFECB-B2BE-6D11-FFCC-C0242167A62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44859E8-0B2F-A271-CDF9-56958BE4A8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44859E8-0B2F-A271-CDF9-56958BE4A8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44859E8-0B2F-A271-CDF9-56958BE4A8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44859E8-0B2F-A271-CDF9-56958BE4A8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EADFECB-B2BE-6D11-FFCC-C0242167A62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EADFECB-B2BE-6D11-FFCC-C0242167A62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EADFECB-B2BE-6D11-FFCC-C0242167A62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EADFECB-B2BE-6D11-FFCC-C0242167A62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
